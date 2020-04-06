@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.shell.windows": "cmd.exe",
+
+  "terminal.integrated.env.windows": {
+    "CMDER_ROOT": "C:\\tools\\cmder"
+  },
+  "terminal.integrated.shellArgs.windows": [
+    "/k",
+    "%CMDER_ROOT%\\vendor\\bin\\vscode_init.cmd"
+  ]
+}
