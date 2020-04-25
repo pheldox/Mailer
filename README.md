@@ -18,4 +18,9 @@ Technologies/Tools:
 * Stripe payment API
 * SendGrid for emails
 
+## Landing Page
 ![Landing Page](https://github.com/pheldox/Mailer/blob/master/login.png)
+
+## Stripe payment
+![Stripe](https://github.com/pheldox/Mailer/blob/master/stripe.png)
+
