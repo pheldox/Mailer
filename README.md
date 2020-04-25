@@ -24,3 +24,13 @@ Technologies/Tools:
 ## Stripe payment
 ![Stripe](https://github.com/pheldox/Mailer/blob/master/stripe.png)
 
+## New Survey
+![Create survey](https://github.com/pheldox/Mailer/blob/master/new_survey.png)
+## Confirmation
+![Confirmation](https://github.com/pheldox/Mailer/blob/master/survey_confirmation.png)
+
+## SendGrid Emails
+![Emails](https://github.com/pheldox/Mailer/blob/master/sendgrid.png)
+
+## All Surveys
+![Survey](https://github.com/pheldox/Mailer/blob/master/list_of_surveys.png)
